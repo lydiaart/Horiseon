@@ -45,4 +45,4 @@ https://flowingcityloy.github.io/Challenge1/
 
 ## Credits
 
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+❤️ Made with love by Lydia Loy ❤️
