@@ -21,7 +21,7 @@ Installation
 
 ## Usage
 
-Users can access three sections by clicking on the three subheadings on the right side of header. They are "Search Engine Optimization," "Online Reputation Management," and "Secial Media Marketing." 
+Users can access three different sections by clicking navigation bars. They are "Search Engine Optimization," "Online Reputation Management," and "Secial Media Marketing." 
 
 In "Search Engine Optimization" section, business users will find the right customers through increased visibility.
 In "Online Reputation Mangament" section, business owners can avoid unnecessary negative reviews and have better control over what to show to potential customers.
