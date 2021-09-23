@@ -7,13 +7,13 @@ This assignment is to refactor an existing site to make it more accessible. As a
 
 ## Table of Contents
 
-* [Search engine optimization](#search-engine-optimization)
-* [online reputation management](#online-reputation-management)
-* [social media marketing](#social-media-marketing)
-* [copyright](#copyright:2019 horiseon)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Websites](#Websites)
+* [Credits](#Credits)
 
 
-Installation
+## Installation
 
 1. clone the code from github.
 2. download the files into your computer.
