@@ -1,8 +1,8 @@
-# HTML CSS Git Challenge: Code Refactor
+# Horiseon
 
 ## Description
 
-This assignment is to refactor an existing site to make it more accessible. As a student, I need to select meaningful semantic HTML element to make the site optimize for search engines.
+This assignment is to refactor an existing site to make it more accessible including sight-impaired people. As a developer, I need to select meaningful semantic HTML element to make the site optimize for search engines.
 
 
 ## Table of Contents
