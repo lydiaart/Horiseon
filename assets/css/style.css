@@ -1,5 +1,5 @@
 /* 
-
+Universal selector used for the entire app
 */
 * {
     box-sizing: border-box;
@@ -11,6 +11,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Class element that can be repeated in the file.*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -53,6 +54,7 @@ p {
     font-size: 16px;
 }
 
+/* hero is the large image used for getting attention. */
 .hero {
     height: 800px;
     width: 100%;
@@ -105,6 +107,7 @@ p {
     max-width: 150px;
 }
 
+/* hashtag is id element that is unique without repetition. */
 #search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
